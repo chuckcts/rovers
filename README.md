@@ -17,8 +17,8 @@ The output for each rover should be its final co-ordinates and heading.
 
 ## Setup
 1. Download the repository.
-2. Make the corresponding modifications.
-3. Create a pull request to review the challenge.
+2. composer install
+3. configure web server and access it or use test units
 
 ## Input Cheat Sheet
 The output for each rover should be its final co-ordinates and heading.
